@@ -1,6 +1,6 @@
 # Enum: Document Context
 
-Context of a [\<type:content-document\>](../types/content-document.md) determining the capabilities of that document.
+Context of a [\<type:content-document\>](/docs/types/content-document.md) determining the capabilities of that document.
 
 ## Values
 

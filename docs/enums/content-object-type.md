@@ -1,6 +1,6 @@
 # Enum: Content Object Type
 
-Values for the `type` field on a [\<type:content-object\>](../types/content-object.md).
+Values for the `type` field on a [\<type:content-object\>](/docs/types/content-object.md).
 
 ## Values
 
